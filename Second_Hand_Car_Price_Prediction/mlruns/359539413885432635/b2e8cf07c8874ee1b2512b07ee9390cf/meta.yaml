@@ -1,0 +1,15 @@
+artifact_uri: file:///home/catrplr/Internship/Second_Hand_Car/mlruns/359539413885432635/b2e8cf07c8874ee1b2512b07ee9390cf/artifacts
+end_time: 1729586555127
+entry_point_name: ''
+experiment_id: '359539413885432635'
+lifecycle_stage: active
+run_id: b2e8cf07c8874ee1b2512b07ee9390cf
+run_name: masked-grouse-640
+run_uuid: b2e8cf07c8874ee1b2512b07ee9390cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729586546715
+status: 3
+tags: []
+user_id: catrplr

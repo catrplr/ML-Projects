@@ -1,0 +1,15 @@
+artifact_uri: file:///home/catrplr/Internship/Second_Hand_Car/mlruns/359539413885432635/2506fd335bb74144aaaf0c1735eaa195/artifacts
+end_time: 1729586546574
+entry_point_name: ''
+experiment_id: '359539413885432635'
+lifecycle_stage: active
+run_id: 2506fd335bb74144aaaf0c1735eaa195
+run_name: carefree-steed-279
+run_uuid: 2506fd335bb74144aaaf0c1735eaa195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729586546540
+status: 3
+tags: []
+user_id: catrplr

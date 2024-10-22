@@ -1,0 +1,15 @@
+artifact_uri: file:///home/catrplr/Internship/Second_Hand_Car/mlruns/359539413885432635/ff8958af9c3d4fdaa1ae1f08b753c14c/artifacts
+end_time: 1729581437397
+entry_point_name: ''
+experiment_id: '359539413885432635'
+lifecycle_stage: active
+run_id: ff8958af9c3d4fdaa1ae1f08b753c14c
+run_name: illustrious-pig-456
+run_uuid: ff8958af9c3d4fdaa1ae1f08b753c14c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729581437362
+status: 3
+tags: []
+user_id: catrplr

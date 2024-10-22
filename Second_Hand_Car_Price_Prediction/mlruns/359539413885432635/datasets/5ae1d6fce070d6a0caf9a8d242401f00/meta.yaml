@@ -1,0 +1,10 @@
+digest: 7820e327
+name: dataset
+profile: '{"features_cardinality": 25}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"name\": \"0\", \"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"float32\", \"shape\": [-1, 8]}}, {\"name\": \"1\",
+  \"type\": \"tensor\", \"tensor-spec\": {\"dtype\": \"float32\", \"shape\": [-1,
+  1]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "catrplr", "mlflow.source.name": "/home/catrplr/Python/myenv/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
